@@ -10,7 +10,6 @@ I’m excited about collaborating on innovative projects and connecting with lik
  <br><br>
 
 - 📫 I'm a final year student at **VIT VELLORE**
-- 🌏 I'm living now in **Kolkata, India**
 - 📚 I have training experience in **Information Security and SAP**
 - 🌱 I’m currently focusing on **Full Stack Development** and practicing **Data Structures and Algorithms** everyday.
 - 🔭 I’m looking forward to contribute to **Open Source Projects**.
